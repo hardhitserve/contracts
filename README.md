@@ -14,7 +14,11 @@ Avalanche :  [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://snowtrace.io/a
 
 Moonbeam : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://moonbeam.moonscan.io/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd#code)  
 
-Core DAO : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://scan.coredao.org/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd#code)
+Arbitrum : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://arbiscan.io/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd#code)  
+
+Optimism : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://optimistic.etherscan.io/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd#code)  
+
+Core DAO : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://scan.coredao.org/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd#code)  
 
 **### OFT COntracts**  
 
@@ -29,6 +33,7 @@ Avalanche :  [0xF20c24cF9AA452c4f29CCE38F5EaE0bc9Ae8AaC3](https://snowtrace.io/a
 Moonbeam : [0x78d43c740c3cD978b708C5104231A236B72A0087](https://moonbeam.moonscan.io/address/0x78d43c740c3cD978b708C5104231A236B72A0087#code)  
 
 Core DAO : [0x79FbAa67A7E8f59356e5CED082DCd93769F3B8F0](https://scan.coredao.org/address/0x79FbAa67A7E8f59356e5CED082DCd93769F3B8F0#code)  
+
 
 
 **###Testnet contracts##**  
