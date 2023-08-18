@@ -22,6 +22,8 @@ Core DAO : [0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://scan.coredao.org
 
 Base     : [0xcdf79e85a5e8ffd8d93def3d3c7580b8ab8870cd](https://basescan.org/address/0xcdf79e85a5e8ffd8d93def3d3c7580b8ab8870cd#code)  
 
+Mantle   :[0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://explorer.mantle.xyz/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd/contracts#address-tabs)  
+
 **### OFT COntracts**  
 
 BSc:  [0xB194174A33398A3db3972c06a6AFc81f479C41e5](https://bscscan.com/address/0xB194174A33398A3db3972c06a6AFc81f479C41e5#code)  
