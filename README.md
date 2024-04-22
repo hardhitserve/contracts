@@ -24,6 +24,8 @@ Base     : [0xcdf79e85a5e8ffd8d93def3d3c7580b8ab8870cd](https://basescan.org/add
 
 Mantle   :[0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://explorer.mantle.xyz/address/0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd/contracts#address-tabs)  
 
+Linea   :[0xcdF79E85a5e8FFd8D93def3D3c7580B8aB8870cd](https://lineascan.build/address/0xcdf79e85a5e8ffd8d93def3d3c7580b8ab8870cd#code)  
+
 
 
 **### OFT COntracts**  
